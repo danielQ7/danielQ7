@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! 👋 Soy Luka Daniel Quiñonez</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="coding" />
+  <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="320" alt="coding" />
 </p>
 
 <p align="center"><b>Soy autodidacta, apasionado por las bases de datos y el desarrollo web.</b></p>
@@ -28,8 +28,8 @@
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=danielQ7&show_icons=true&theme=tokyonight&locale=es" alt="Estadísticas" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielQ7&layout=compact&theme=tokyonight&locale=es" alt="Lenguajes más usados" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=danielQ7&theme=tokyonight" alt="Estadísticas" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danielQ7&theme=tokyonight" alt="Lenguajes más usados" />
 </p>
 
 <p align="center">
@@ -40,17 +40,3 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luka-daniel-qui%C3%B1onez-gaona-86b177377/)
 
-<!--
-**danielQ7/danielQ7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
